@@ -19,6 +19,7 @@ namespace WFA201002_KA
             var txt = new Label();
             txt.SetBounds(0, 0, 2000, 20);
             txt.Text = "Hello World";
+            //comment
             Controls.Add(txt);
         }
     }
